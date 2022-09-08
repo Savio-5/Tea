@@ -10,3 +10,4 @@ Add Milk
 Add Sugar
 
 Serve
+Drink
